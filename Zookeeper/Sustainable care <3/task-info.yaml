@@ -312,9 +312,6 @@ files:
     if __name__ == '__main__':
         Zookeeper('zookeeper.zookeeper').run_tests()
   learner_created: false
-- name: zookeeper/new_file.py
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/98/stages/542/implement#comment
 status: Solved
 feedback:
